@@ -1,6 +1,6 @@
 # NavigationLab
 
-Aplikasi Android sederhana untuk mata kuliah Pengembangan Aplikasi Perangkat Bergerak (TIF – B), Fakultas Ilmu Komputer, Universitas Brawijaya. Project ini adalah hasil Modul Praktikum 08: refactoring dari callback ke Kotlin Coroutines dan Flow, ditambah fitur Refresh.
+Aplikasi Android sederhana untuk mata kuliah Pengembangan Aplikasi Perangkat Bergerak (TIF – B), Fakultas Ilmu Komputer, Universitas Brawijaya.
 
 ## Fitur
 
